@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Flowersmillion
-- 👀 I’m interested in ... fame
-- 🌱 I’m currently learning ... wealth 
-- 💞️ I’m looking to collaborate on ... riches 
-- 📫 How to reach me ... 
+- 👋 Hi, I’m @kahdarflowers
+- 👀 I’m interested in ...engagement 
+- 🌱 I’m currently learning ... elite  
+- 💞️ I’m looking to collaborate on ... engagment 
+- 📫 How to reach me ... @kahdarflowers
 
 <!---
 Flowersmillion/Flowersmillion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
